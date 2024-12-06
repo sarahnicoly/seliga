@@ -29,6 +29,11 @@ body {
         exibir: bloco;
         margem: 0 automático;
         }
+
+        .título-da-página {
+            margem: 10px 0 0;
+            tamanho da fonte: 24px;
+            }
     
     /* Cores para cada seção */
     #section1 {
