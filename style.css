@@ -15,6 +15,20 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
+
+    /* Cabeçalho */
+    .cabeçalho {
+        cor de fundo: #3C6E71;
+        cor: #FFFFFF;
+        alinhamento de texto: centralizar;
+        preenchimento: 20px 0;
+        }
+        
+        .logotipo {
+        largura máxima: 100px;
+        exibir: bloco;
+        margem: 0 automático;
+        }
     
     /* Cores para cada seção */
     #section1 {
